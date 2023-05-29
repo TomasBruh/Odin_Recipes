@@ -1,1 +1,1 @@
-I will build a website (only with html for now, because even tho I know quite a bit of CSS, I haven't reached that part on the Odin project yet, so I am not going to rush it) to demonstrate my html skills and for keeping track of my progress / skills
+I will build a website for someone I know to demonstrate my html skills and for keeping track of my progress.
