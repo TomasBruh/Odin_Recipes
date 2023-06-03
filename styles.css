@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(9, 66, 6);
+    color: rgb(243, 236, 41);
+    font-family: "Times New Roman", Helvetica, sans-serif;;
+}
+
+hr {
+    border: 2px solid rgb(57, 40, 1);
+    
+}
+
+img {
+    border: 1px solid rgb(80, 55, 2);
+}
+
+ul {
+    list-style-type: none;
+}
